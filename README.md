@@ -18,4 +18,4 @@
 ### Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Tyler03118)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ziji-li/)
-[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)]([https://www.instagram.com/lilianlee.me/](https://www.instagram.com/zijisaint458/))
+[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)]((https://www.instagram.com/zijisaint458/))
