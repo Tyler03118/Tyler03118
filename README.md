@@ -4,7 +4,7 @@
 <br>
 🏫&nbsp&nbsp I’m currently studying: Computer Science; Data Science; Economics <br>
 🧑‍💻&nbsp&nbsp I’m looking for: 2024 Software Development Engineer Summer Intern <br>
-🦾&nbsp&nbsp I am interested in: Technology & business, gym, music <br>
+🦾&nbsp&nbsp I am interested in: Technology & Business, Art, Music <br>
 📫&nbsp&nbsp How to reach me: zli2296@wisc.edu <br>
 😎&nbsp&nbsp Pronouns: He/Him/His <br>
 🧑‍🎨&nbsp&nbsp Fun fact: I am an amateur DJ <br>
