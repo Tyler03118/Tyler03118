@@ -3,7 +3,7 @@
 #### Welcome to my page! My name is Ziji, a full stack software developer. I'm currently a senior at UW-Madison.
 <br>
 🏫&nbsp&nbsp I’m currently studying: Computer Science; Data Science; Economics <br>
-🧑‍💻&nbsp&nbsp I’m looking for: 2025 Software Development Engineer Summer Intern <br>
+🧑‍💻&nbsp&nbsp I’m looking for: 2025 Software Engineer Summer Intern <br>
 🦾&nbsp&nbsp I am interested in: Technology & Business, Art, Music <br>
 📫&nbsp&nbsp How to reach me: zijil499@gmail.com <br>
 😎&nbsp&nbsp Pronouns: He/Him/His <br>
