@@ -1,6 +1,6 @@
 # Hey! Nice to see you👋
 
-#### Welcome to my page! My name is Ziji, a full stack software developer. I'm currently a senior at UW-Madison.
+#### Welcome to my page! My name is Ziji, a full stack software developer. I'm currently a master student at Georgia Tech.
 <br>
 🏫&nbsp&nbsp I’m currently studying: Computer Science; Data Science; Economics <br>
 🧑‍💻&nbsp&nbsp I’m looking for: 2025 Software Engineer Summer Intern <br>
