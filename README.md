@@ -1,6 +1,6 @@
 # Hey! Nice to see you👋
 
-#### Welcome to my page! My name is Ziji, a dedicated Software Engineering student at Georgia Tech pursuing M.S. in Computer Science with 1+ year of full-stack development experience. Proven track record in building scalable distributed systems and elastic applications using modern technologies. Demonstrated success in optimizing system performance, reducing latency by 80% and improving deployment efficiency by 60% in previous roles. Seeking Software Development Engineer internship opportunities to leverage strong technical foundation and passion for building innovative solutions.
+#### Welcome to my page! My name is Ziji, a dedicated Software Engineering student at Georgia Tech pursuing M.S. in Computer Science with 1+ year of full-stack development experience. Proven track record in building scalable distributed systems and elastic applications using modern technologies. Demonstrated success in optimizing system performance, reducing latency by 80% and improving deployment efficiency by 60% in previous roles.
 <br>
 🏫&nbsp&nbsp I’m currently studying: Computer Science; Data Science; <br>
 🧑‍💻&nbsp&nbsp I’m looking for: 2025 Software Engineer Summer Intern <br>
