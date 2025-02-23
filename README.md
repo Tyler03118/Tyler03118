@@ -7,6 +7,7 @@
 🦾&nbsp&nbsp I am interested in: Distributed System, Cloud Computing, Web3 <br>
 📫&nbsp&nbsp How to reach me: zijil499@gmail.com <br>
 😎&nbsp&nbsp Pronouns: He/Him/His <br>
+🏅&nbsp&nbsp Certificates: AWS Solution Architect Associate; Advanced Google Analytics <br>
 
 ### Things I code with
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
