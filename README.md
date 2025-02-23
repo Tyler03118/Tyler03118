@@ -4,7 +4,7 @@
 <br>
 🏫&nbsp&nbsp I’m currently studying: Computer Science; Data Science; <br>
 🧑‍💻&nbsp&nbsp I’m looking for: 2025 Software Engineer Summer Intern <br>
-🦾&nbsp&nbsp I am interested in: Technology & Business, Art, Music <br>
+🦾&nbsp&nbsp I am interested in: Distributed System, Cloud Computing, Web3 <br>
 📫&nbsp&nbsp How to reach me: zijil499@gmail.com <br>
 😎&nbsp&nbsp Pronouns: He/Him/His <br>
 
