@@ -2,9 +2,8 @@
 
 #### Welcome to my page! My name is Ziji, a dedicated Software Engineering student at Georgia Tech pursuing M.S. in Computer Science with 1+ year of full-stack development experience. Proven track record in building scalable distributed systems and elastic applications using modern technologies. Demonstrated success in optimizing system performance, reducing latency by 80% and improving deployment efficiency by 60% in previous roles.
 <br>
-🏫&nbsp&nbsp I’m currently studying: Computer Science; Data Science; <br>
-🧑‍💻&nbsp&nbsp I’m looking for: 2025 Software Engineer Summer Intern <br>
-🦾&nbsp&nbsp I am interested in: Distributed System, Cloud Computing, Web3 <br>
+🏫&nbsp&nbsp I’m currently working in: Software Engineering; Artificial Intelligence <br>
+🦾&nbsp&nbsp I am interested in: Large Language Models, Distributed System, Cloud Computing, Web3 <br>
 📫&nbsp&nbsp How to reach me: zijil499@gmail.com <br>
 😎&nbsp&nbsp Pronouns: He/Him/His <br>
 🏅&nbsp&nbsp Certificates: <a href="https://www.credly.com/badges/1d6c42b2-36b1-4e1c-94e7-569cbf915bb6/linked_in?t=sry73h" target="_blank">AWS Solution Architect Associate</a>; Advanced Google Analytics <br>
